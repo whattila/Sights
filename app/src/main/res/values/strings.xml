@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sights</string>
+    <string name="name_placeholder">Name</string>
+    <string name="title_placeholder">Title</string>
+    <string name="location_placeholder">Location</string>
+    <string name="delete_item">DELETE</string>
+    <string name="back_item">BACK</string>
+    <string name="title_sights_list">Sights</string>
+    <string name="search_introduction">Find your sights! Choose a search method</string>
+    <string name="save">Save search results</string>
+    <string name="city_search_description">Type in city name</string>
+    <string name="nearby_search_description">Or find sights near you!</string>
+    <string name="search_nearby">Search nearby</string>
+    <string name="permission_denied_location">Location access denied</string>
+    <string name="location_permission_explanation">The application needs permission to access the device\'s location. It won\'t use location data without explicit user intention.</string>
+    <string name="proceed">Proceed</string>
+    <string name="exit">Exit</string>
+    <string name="no_results">No sights found</string>
+    <string name="no_selected">Select some sights to insert or go back</string>
+    <string name="search_city">Search in city</string>
+    <string name="no_city">Type in a city name!</string>
+    <string name="city_query">Tourist attractions in %1$s</string>
+    <string name="addSight">Add new sights</string>
+    <string name="goToMap">Go to map view</string>
+    <string name="start_navigation">Start navigation?</string>
+    <string name="navigation_message">By choosing Yes, a route planner app on your phone will be launched, with your current location as start and the selected sight as destination</string>
+    <string name="dialog_positive">Yes</string>
+    <string name="dialog_negative">No</string>
+    <string name="navigate">Navigate here</string>
+    <string name="no_activity">No application on your device to use navigation</string>
+    <string name="list_intro">Click on items to launch navigation to the selected sight. Long press on items to delete them.</string>
+    <string name="got_it">Got it</string>
+    <string name="map_intro">Click on markers to bring up the info window. Click on info windows to launch navigation to the selected sight. Long press on info windows to delete them.</string>
+    <string name="delete_sight">Delete sight?</string>
+    <string name="showCoordinates">Show coordinates of selected sights</string>
+    <string name="not_available">This option is not available in the demo</string>
+</resources>

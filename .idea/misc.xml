@@ -1,0 +1,25 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/activity_map.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/custom_info_contents.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/row_sight.xml" value="0.1" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/sight_list.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/layout/sight_list_content.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/menu/menu_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/menu/menu_map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Attila/AndroidStudioProjects/Sights/app/src/main/res/menu/menu_sight.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
